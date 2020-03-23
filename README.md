@@ -61,6 +61,8 @@ In energy saver configure your Mac to turn on at the time your early class start
 
 Also configure	webcamoid to start at login other wise it will show a weird screen as your camera.
 
+## To reddit
+
 Finally this is just a fun project that grants me a bit more sleep in the case I need it, im personally waking up early to attend classes, this just makes switching zoom rooms effortless and its also a safe net. Attend your classes don’t cheat and I hope this was a fun project for you too.
 
 Also im not an expert, Im a beginner in my second semester in computer science school didn’t tech me how to do any of this in fact they haven’t teach me lots of useful things for my career yet. Im pretty sure there’s another way to make this better and I know its not only a script to do all but this is how I did it. And sorry for grammar or if it isn’t very clear English its not my native tongue, im from México and live in México. Good luck with COVID, keep your elder relatives safe.
