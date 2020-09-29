@@ -55,14 +55,5 @@ Then save the automator app with the name of the online class its attached to, f
 Then you’ll have to open the normal calendar app included with Mac OS and create an event for each class in one week. Then for each class of the week create an alert, custom , open app and select the app you created for that class and select at time of event so it triggers when your class starts. This is very useful cause it on the native Mac OS so it works flawlessly and its very reliable, a plus is that it sends and alert to all your devices so you can now in your iPhone that your class started and that your Mac connected to it.
 
 ## Extra steps
-To fake a virtual camera use webcamoid I believe you need to disable SIP in order for it to work (google how to disable SIP) In webcamoid use an old recording of you and configure Zoom to use that virtual cam instead of the face time one. Make sure to open each app manually at least once to grant access to keystrokes.
 
 In energy saver configure your Mac to turn on at the time your early class starts, make sure you leave your laptop connected to power otherwise it wont start. Use an app like amphetamine to avoid your Mac to sleep, or configure it from powersaver.
-
-Also configure	webcamoid to start at login other wise it will show a weird screen as your camera.
-
-## To reddit
-
-Finally this is just a fun project that grants me a bit more sleep in the case I need it, im personally waking up early to attend classes, this just makes switching zoom rooms effortless and its also a safe net. Attend your classes don’t cheat and I hope this was a fun project for you too.
-
-Also im not an expert, Im a beginner in my second semester in computer science school didn’t tech me how to do any of this in fact they haven’t teach me lots of useful things for my career yet. Im pretty sure there’s another way to make this better and I know its not only a script to do all but this is how I did it. And sorry for grammar or if it isn’t very clear English its not my native tongue, im from México and live in México. Good luck with COVID, keep your elder relatives safe.
